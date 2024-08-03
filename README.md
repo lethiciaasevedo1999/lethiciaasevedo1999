@@ -4,7 +4,9 @@
 
 
 
-<p align="left"> Hi there, my name is Lethicia👋<br><br>I'm Brazilian and currently living in São Paulo, pursuing System Analysis and Development and Data Science. 
+## Hi there, my name is Lethicia👋
+
+<br>I'm Brazilian and currently living in São Paulo, pursuing System Analysis and Development and Data Science. 
 My journey with technology started early, and my curiosity has only grown over the years. I love programming and am especially fond of Go and Python.<br><br>I have extensive knowledge that includes:<br><br>- Programming Languages: Python, Go, Java, HTML, CSS<br>- Data Science and Machine Learning: Pandas, Jupyter Notebook <br>- DevOps and Cloud: Docker, Azure<br>- Databases: MySQL<br>- Frameworks and Tools: Django, Git, Linux, MacOS, Windows<br><br>Most of my time is dedicated to programming in Python, while I also enjoy exploring Go. I founded @lyartec to share my passion for technology and to teach others about programming, hacking, and the latest tech trends.<br><br>When I'm not immersed in programming or studying, I love practicing sports, watching movies and series, especially documentaries and science fiction, and spending quality time with my family. My daily routine is heavily focused on learning and improving my skills, as I believe in the importance of continuous growth. I believe I have a knack for teaching and love to inspire others to explore the world of technology.<br><br>Feel free to connect with me! I'm always open to new ideas, discussions, and collaborations. You can reach me at contato@lyartec.com.br / lethiciaasevedo01@gmail.com.</p>
 
 ###
