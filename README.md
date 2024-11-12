@@ -69,6 +69,6 @@ Sou brasileira e atualmente moro em São Paulo, minha jornada com a tecnologia c
 ###
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d18c8c&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db3630&height=120&section=footer"/>
 
 
