@@ -5,15 +5,18 @@
 </picture>
 
 
+
 ###
 
-```Data Analyst at Itaú Unibanco 💻 ``` 
+<h3 align="left"> Lethicia Asevedo 💻 </h3>
 
 ###
 
 <h1 align="left"></h1>
 
 ###
+```Data Analyst at Itaú Unibanco 💻 ``` 
+
 
 <p align="left">I'm Lethicia Asevedo, a 26-year-old Brazilian based in São Paulo.<br>I hold a degree in Systems Analysis and Development, am completing my Data Science program, and have recently started a Bachelor's in Statistics.<br><br>My journey with technology began early and evolved alongside my passion for data and analysis. I focus on extracting insights and optimizing processes from large volumes of data, applying analytical techniques and fraud detection strategies.<br><br>I’m continuously seeking growth in the Data Science field, exploring the potential of Quantum Computing and its impact on the future of technology.</p>
 
