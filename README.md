@@ -4,9 +4,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lethiciaasevedo1999/lethiciaasevedo1999/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
 
-<h4 align="left">Data Analyst at Itaú Unibanco</h4>
+```Data Analyst at Itaú Unibanco 💻 ``` 
 
 ###
 
@@ -14,11 +15,18 @@
 
 ###
 
-<p align="left">I'm Lethicia Asevedo, a 26-year-old Brazilian based in São Paulo.<br>I hold a degree in Systems Analysis and Development, am completing my Data Science program, and have recently started a Bachelor's in Statistics.<br><br>My journey with technology began early and evolved alongside my passion for data and analysis. I focus on extracting insights and optimizing processes from large volumes of data, applying analytical techniques and fraud detection strategies.<br><br>I’m continuously seeking growth in the Data Science field, exploring the potential of Quantum Computing and its impact on the future of technology.<br><br>Reach me out here: lethiciaasevedo01@gmail.com</p>
+<p align="left">I'm Lethicia Asevedo, a 26-year-old Brazilian based in São Paulo.<br>I hold a degree in Systems Analysis and Development, am completing my Data Science program, and have recently started a Bachelor's in Statistics.<br><br>My journey with technology began early and evolved alongside my passion for data and analysis. I focus on extracting insights and optimizing processes from large volumes of data, applying analytical techniques and fraud detection strategies.<br><br>I’m continuously seeking growth in the Data Science field, exploring the potential of Quantum Computing and its impact on the future of technology.</p>
+
+Reach me out here: 
+
+📧 <a href="mailto:lethiciaasevedo01@gmail.com" target="__blank">lethiciaasevedo01@gmail.com</a>
+
+🔗 Linkedin : <a href="https://www.linkedin.com/in/lethiciaasevedo/" target="__blank">in/lethiciaasevedo/</a>
+
 
 ###
 
-<h2 align="left"></h2>
+
 
 ###
 
@@ -26,7 +34,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
@@ -56,13 +64,10 @@
 
 ###
 
-<br clear="both">
 
 <h3 align="left">LANGUAGES</h3>
 
 ###
-
-<p align="left">Native Portuguese<br>🇺🇸 Intermediate English</p>
-
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediate English
 ###
-
